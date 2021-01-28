@@ -1,0 +1,18 @@
+ -----------
+| Chat Cord |
+ -----------
+
+Git Commands :
+
+=> git init   
+=> npm init
+=> npm i --package-lock-only
+=> git status
+=> git add .
+=> git status
+=> git commit -m "Initial Commit"
+=> git remote add origin https://github.com/ZackWearden69/ChatCord.git
+=> git remote -v
+=> git push -u origin main
+=> git push -f origin main  
+  
