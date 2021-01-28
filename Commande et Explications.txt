@@ -1,8 +1,15 @@
  -----------
 | Chat Cord |
  -----------
+Lien :
+______
 
-Git Commands :
+https://www.youtube.com/watch?v=jD7FnbI76Hg&fbclid=IwAR0b9ui8TdTBKLEty81S-
+Dzd5eCmf1soxJ2GVXD-kx4-VC3ygSyITnLKZwg&ab_channel=TraversyMedia
+
+
+
+Git Commands (FIRST COM):
 
 => git init   
 => npm init
@@ -15,4 +22,16 @@ Git Commands :
 => git remote -v
 => git push -u origin main
 => git push -f origin main  
-  
+
+
+Powershell Commands :
+
+=> npm install express socket.io moment
+=> npm install -D nodemon
+
+
+Git Commands (SECOND COM - STATIC CONTENT):
+
+
+
+
