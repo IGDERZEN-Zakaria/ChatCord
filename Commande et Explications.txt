@@ -35,3 +35,22 @@ Git Commands (SECOND COM - STATIC CONTENT):
 
 
 
+Git Commands (FINAL COM):
+
+
+=> git status
+=> git add .
+=> git status
+=> git commit -m "Final Commit"
+=> git remote add origin https://github.com/ZackWearden69/ChatCord.git
+=> git remote -v
+=> git push -u origin final
+=> git push -f origin final  
+
+
+
+
+
+
+
+
